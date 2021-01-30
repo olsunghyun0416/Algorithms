@@ -15,6 +15,11 @@
 #출력: 
 # -1
 # 
+##
+##
+##
+
+
 
 cnt = int(input())
 num = list(map(int, input().split()))
